@@ -453,6 +453,11 @@ h3 {
 }
 
 .pubs .venue {
+  color: gray;
+  font-size: .95rem;
+}
+
+.pubs .author {
   color: var(--muted);
   font-size: .95rem;
 }
