@@ -553,3 +553,16 @@ footer .wrap {
     border-radius: 24px;
   }
 }
+
+.person .face {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  border-radius: 18px;
+  border: none;
+}
+
+.person .face img {
+  object-position: center top;
+}
+
